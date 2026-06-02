@@ -1,0 +1,13 @@
+"step","n"
+"原始合并 (9 cycles, C-J + P_)",95872
+"Age >= 20",54022
+"+ not pregnant (excl confirmed RIDEXPRG==1 only)",52994
+"+ PFAS 核心 (6 化合物) 任一非缺",15403
+"+ 排除 HEPB/HEPC 阳性 (n=2712)",12691
+"+ 排除 self-reported 已诊断肝病 (n=467)",12224
+"+ FIB-4 ready (ALT/AST/PLT 非缺)",10808
+"主分析 Stack 1 cohort (排 _C 无 FIB-4 / 排 _J dedupe)",9701
+"最终核心协变量完整 (剔 1111)",8590
+"Mortality-linked cohort (Stack 7)",6557
+"Stack 2 FibroScan subset (P_ + has_lux)",1929
+"Stack 4 PFAS+Metals subset (PBCD 5 metals complete)",3481

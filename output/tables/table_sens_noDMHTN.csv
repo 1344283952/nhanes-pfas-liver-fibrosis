@@ -1,0 +1,7 @@
+"pfas","outcome","model","est","lo","hi","p","pct_per_SD"
+"LBXPFNA_z","logFIB4","M2_noDMHTN",0.0096,-0.0027,0.0219,0.129,1
+"LBXMPAH_z","logFIB4","M2_noDMHTN",-0.0235,-0.0335,-0.0135,1.16e-05,-2.3
+"LBXPFDE_z","logFIB4","M2_noDMHTN",-0.0036,-0.0143,0.0071,0.51,-0.4
+"LBXPFOS_z","logFIB4","M2_noDMHTN",-0.0077,-0.0198,0.0044,0.216,-0.8
+"LBXPFOA_z","logFIB4","M2_noDMHTN",0.0064,-0.0064,0.0191,0.329,0.6
+"LBXPFHS_z","logFIB4","M2_noDMHTN",-8e-04,-0.0104,0.0088,0.87,-0.1
