@@ -1,5 +1,7 @@
 # nhanes-pfas-liver-fibrosis
 
+> **Pre-publication notice — please read.** This repository accompanies a research manuscript that is **currently under peer review and not yet published**. The study, its results, and its figures have not been peer-reviewed and remain the authors' unpublished work. The code is shared under the MIT License for transparency and reproducibility; however, **please do not reproduce, reuse, or build upon the results, figures, or analysis pipeline in any other publication, preprint, thesis, or grant application until this article is published.** For any use, please cite the published article (once available) and contact the corresponding author, Ling Yu (yulingyxb@jlu.edu.cn). Thank you for respecting the authors' priority.
+
 Reproducibility package for a compound-resolved, multi-index NHANES analysis of per- and polyfluoroalkyl substances (PFAS) and liver fibrosis (FIB-4, the age-free APRI, and directly measured transient elastography), with all-cause and cardiometabolic mortality as secondary outcomes.
 
 ## Repository layout
