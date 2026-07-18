@@ -1,0 +1,13 @@
+"pfas","outcome","n_completecase","events","term","chisq_pfas","p_pfas","chisq_global","p_global"
+"PFNA","mort_allcause",6555,866,"PFAS",2.6193,0.1056,12.748,0.5465
+"PFNA","mort_cm",6555,297,"PFAS",0.9374,0.333,9.5946,0.7912
+"Me-PFOSA-AcOH","mort_allcause",6555,866,"PFAS",0.5967,0.4398,10.8697,0.6962
+"Me-PFOSA-AcOH","mort_cm",6555,297,"PFAS",0.0024,0.9611,8.8815,0.8386
+"PFDA","mort_allcause",6555,866,"PFAS",4.4006,0.0359,14.5156,0.412
+"PFDA","mort_cm",6555,297,"PFAS",4.2141,0.0401,13.2936,0.5035
+"PFOS","mort_allcause",5421,770,"PFAS",0.1994,0.6552,10.4306,0.7301
+"PFOS","mort_cm",5421,260,"PFAS",0.3452,0.5568,6.8455,0.9405
+"PFOA","mort_allcause",5421,770,"PFAS",2.5457,0.1106,14.3304,0.4254
+"PFOA","mort_cm",5421,260,"PFAS",0.176,0.6748,6.7185,0.945
+"PFHxS","mort_allcause",6555,866,"PFAS",0.7682,0.3808,11.8762,0.6162
+"PFHxS","mort_cm",6555,297,"PFAS",0.2503,0.6168,9.4226,0.8031
